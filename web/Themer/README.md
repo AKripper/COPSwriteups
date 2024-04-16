@@ -20,7 +20,7 @@ chall.zip
 
 ## Writeup
 
-Click on any one of the themes. We can perform path traversal in the theme arguement by changing `?theme=themes/theme1.css` to `?theme=../flag.txt`.
+Upon opening the link click on any one of the themes. We can perform path traversal in the theme arguement by changing `?theme=themes/theme1.css` to `?theme=../flag.txt`.
 Now we can find the flag in the source code of the page.
 
 ## Flag
